@@ -33,7 +33,7 @@
   - config.timezone : _timezone displays the time at the specified location_ (string)
   - config.groups : _to filter whether bots can respond to group chats or not_ (boolean)
 
-- [console.txt](https://github.com/Debotz/stickerwabot/blob/main/config/console.txt)
+- [console.txt](https://github.com/Debotz/stickerwabot/blob/master/config/console.txt)
 
   ```txt
     /$$$$$$   /$$     /$$           /$$                           /$$$$$$$   /$$$$$$  /$$$$$$$$
