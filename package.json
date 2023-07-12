@@ -1,0 +1,25 @@
+{
+  "name": "stickerdz",
+  "version": "1.4.0",
+  "description": "StickerBOT by Debotz",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "whatsapp-web.js",
+    "stickerdz",
+    "dreleztm"
+  ],
+  "author": "Debotz",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ffmpeg": "^0.0.4",
+    "fs": "^0.0.1-security",
+    "moment-timezone": "^0.5.37",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.19.3"
+  }
+}
