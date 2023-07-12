@@ -2,7 +2,7 @@
 
 - Clone Repository
   ```sh
-  git clone
+  git clone https://github.com/Debotz/stickerwabot.git
   ```
 - Install Modules
   ```sh
@@ -15,7 +15,7 @@
 
 ## Configuration 🗝
 
-- [config.json](https://github.com/DrelezTM/StickerWhatsAppBOT/blob/main/config/config.json)
+- [config.json](https://github.com/Debotz/stickerwabot/blob/main/config/config.json)
 
   ```json
   {
@@ -33,7 +33,7 @@
   - config.timezone : _timezone displays the time at the specified location_ (string)
   - config.groups : _to filter whether bots can respond to group chats or not_ (boolean)
 
-- [console.txt](https://github.com/DrelezTM/StickerWhatsAppBOT/blob/main/config/console.txt)
+- [console.txt](https://github.com/Debotz/stickerwabot/blob/main/config/console.txt)
 
   ```txt
     /$$$$$$   /$$     /$$           /$$                           /$$$$$$$   /$$$$$$  /$$$$$$$$
