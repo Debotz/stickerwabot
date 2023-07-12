@@ -15,7 +15,7 @@
 
 ## Configuration 🗝
 
-- [config.json](https://github.com/Debotz/stickerwabot/blob/main/config/config.json)
+- [config.json](https://github.com/Debotz/stickerwabotconfig/config.json)
 
   ```json
   {
