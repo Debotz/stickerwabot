@@ -22,7 +22,7 @@
     "name": "StickerDZ",
     "author": "@Debotz",
     "prefix": "!",
-    "timezone": "Asia/Jakarta",
+    "timezone": "Asia",
     "groups": true
   }
   ```
